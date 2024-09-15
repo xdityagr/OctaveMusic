@@ -1,5 +1,5 @@
 # OctaveMusic
-Octave Music - A beautiful offline (currently) music player built with design in mind, along with some amazing features yet to come. With design, It is also powerful, user-friendly, and  to elevate your music experience. With its sleek UI, smooth animations, and support for multiple formats, Octave Music makes managing your music collection a breeze.
+Octave Music - A beautiful offline (currently) music player built with design in mind, along with some amazing features yet to come. With design, It is also powerful, user-friendly, and  to elevate your music experience. With its sleek UI, smooth animations, and support for multiple formats with fully customisable interface, Octave Music makes managing and experiencing your music, a breeze.
 ---
 
 ## Features
@@ -24,24 +24,22 @@ Octave Music - A beautiful offline (currently) music player built with design in
 ## Screenshots
 
 ### Interface
-![Main Interface](https://dummyimage.com/600x400/000/fff&text=Main+Interface)  
+![Main Interface](https://github.com/xdityagr/OctaveMusic/blob/main/preview/Screenshot1.png?raw=true)
 *Explore your music library with ease.*
 
 ---
 
-![Cover Art View](https://dummyimage.com/600x400/000/fff&text=Cover+Art+View)  
+![Main Interface 2](https://github.com/xdityagr/OctaveMusic/blob/main/preview/Screenshot2.png?raw=true)
 *Beautifully rendered album cover art.*
 
 ---
 
-### 3. Playlist Management
-![Playlist Management](https://dummyimage.com/600x400/000/fff&text=Playlist+Management)  
+![Main Interface 3](https://github.com/xdityagr/OctaveMusic/blob/main/preview/Screenshot3.png?raw=true)
 *Create and manage playlists effortlessly.*
 
 ---
 
-### 4. Playback Screen
-![Playback Screen](https://dummyimage.com/600x400/000/fff&text=Playback+Screen)  
+![Main Interface 4](https://github.com/xdityagr/OctaveMusic/blob/main/preview/Screenshot4.png?raw=true)
 *Control your music with a sleek, minimalistic player.*
 
 ---
