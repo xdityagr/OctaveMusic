@@ -1,5 +1,9 @@
+![Alt text](https://github.com/xdityagr/OctaveMusic/blob/main/preview/OctaveMusicBanner.png?raw=true)
+
 # OctaveMusic
-Octave Music - A beautiful offline (currently) music player built with design in mind, along with some amazing features yet to come. With design, It is also powerful, user-friendly, and  to elevate your music experience. With its sleek UI, smooth animations, and support for multiple formats with fully customisable interface, Octave Music makes managing and experiencing your music, a breeze.
+
+ **Octave Music** - A beautiful offline (currently) music player built with design in mind, along with some amazing features yet to come. With design, It is also powerful, user-friendly, and  to elevate your music experience. With its sleek UI, smooth animations, and support for multiple formats with fully customisable interface, Octave Music makes managing and experiencing your music, a breeze.
+
 ---
 
 ## Features
