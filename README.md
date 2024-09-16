@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/xdityagr/OctaveMusic/blob/main/preview/OctaveMusicBanner.png?raw=true)
 
-# OctaveMusic
+# Octave Music 
 
  **Octave Music** - A beautiful offline (currently) music player built with design in mind, along with some amazing features yet to come. With design, It is also powerful, user-friendly, and  to elevate your music experience. With its sleek UI, smooth animations, and support for multiple formats with fully customisable interface, Octave Music makes managing and experiencing your music, a breeze.
 
@@ -12,6 +12,7 @@
   Play MP3, M4A, WAV, FLAC, and Opus files effortlessly.
   
 - **🛠 Fully Customizable Interface**
+  
   Fully customizable interface, Blurred background effect, Custom Image Background, Light/Dark themes.
   
 - **🎨 Beautiful Cover Art**  
@@ -25,6 +26,9 @@
 
 - **🔄 Smooth Everything**  
   Enjoy stunning UI animations, including album transitions and interactive controls with smooth volume transitions, playback transitions etc.
+
+  **⚡ High Quality Playback**  
+  Enjoy High quality plackback with lossless audio quality, powered by Octave Engine.
 
 ---
 
@@ -51,7 +55,7 @@
 
 ---
 
-## Stay in touch
+## Coming soon.. Stay in touch?
 
-Stay updated with the latest news and updates for Octave Music:
+Stay updated with the latest news and updates for Octave Music: 
 - Managed and Created by : [Aditya Gaur](https://github.com/xdityagr/)
