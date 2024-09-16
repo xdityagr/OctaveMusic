@@ -10,18 +10,21 @@
 
 - **🎵 Supports Multiple Formats**  
   Play MP3, M4A, WAV, FLAC, and Opus files effortlessly.
-
+  
+- **🛠 Fully Customizable Interface**
+  Fully customizable interface, Blurred background effect, Custom Image Background, Light/Dark themes.
+  
 - **🎨 Beautiful Cover Art**  
   Automatically fetches and displays high-quality album art.
 
 - **❤️ Like/Dislike Songs**  
   Mark your favorite songs with a like and easily manage your preferences.
 
-- **📁 Easy File Management**  
-  Simple and intuitive file handling, allowing you to quickly add and organize your music library.
+- **📁 Easy Playlist/Queue Management**  
+  Simple and intuitive file handling, allowing you to quickly add and organize your music library, save it and even share it. 
 
-- **🔄 Smooth Animations**  
-  Enjoy stunning UI animations, including album transitions and interactive controls.
+- **🔄 Smooth Everything**  
+  Enjoy stunning UI animations, including album transitions and interactive controls with smooth volume transitions, playback transitions etc.
 
 ---
 
